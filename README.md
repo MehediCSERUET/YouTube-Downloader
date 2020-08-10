@@ -2,7 +2,7 @@
 It's a script that will let you download single video or upto 100 videos from a playlist.
 
 ## Requirements
--[Python 3.7](https://www.python.org/downloads/release/python-370/) - Code is fully written on python
+- [Python 3.7](https://www.python.org/downloads/release/python-370/) - Code is fully written on python
 - [PyTube3](https://python-pytube.readthedocs.io/en/latest/) - Library that let's download youtube video
 
 ## Instructions

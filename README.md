@@ -7,7 +7,7 @@ It's a script that will let you download single video or upto 100 videos from a 
 
 ## Instructions
 - Open a terminal and change directory to the folder where youtube_downloader.py exists
-- Run the script by typing python youtube_downloader.py
+- Run the script by typing "python youtube_downloader.py" without the quotation marks
 - Press Y/y to run the script, Press n/N to exit
 - Press s/S to download single video, p/P for playlist
 - Enter the link of the video/playlist
